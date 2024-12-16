@@ -1,0 +1,109 @@
+#profileContentDiv {
+    background-color: white;
+    border: 1px solid lightgrey;
+}
+
+#ProfilFotoDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#profilFoto {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.notificationsDiv {
+    margin-top: 10px;
+    justify-content: center;
+    text-align: right;
+}
+
+#infoDiv {
+    text-align: left;
+    justify-content: center;
+}
+#spanRIOT{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+#hrId{
+    width: 200px;
+    border: 0,9 solid lightgrey;
+    background-color: lightgrey;
+}
+#ReposDiv{
+    background-color: white;
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+    padding: 10px;
+}
+#searchedUserDiv{
+    background-color: white;
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    
+}
+#searchMain{
+    display: flex;
+    flex-direction: row;
+}
+#ListGroupDiv{
+    margin-top: 5px;
+}
+#iletisimHeader{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+.imageIcon{
+    width: 30px;
+    height: 30px;
+    margin-top: 8px;
+}
+.instagramContentDiv{
+    display: flex;
+}
+#instagramFontDiv{
+    margin-top: 7px;
+    margin-left: 10px;
+    color: rgb(86, 19, 124);
+}
+.TwImgIcon{
+    width: 30px;
+    height: 30px;
+    margin-top: 18px;
+}
+.TwContentDiv{
+    display: flex;
+}
+#TwFontDiv{
+    margin-top: 17px;
+    margin-left: 10px;
+    color: rgb(33, 110, 129);
+}
+.YoutubeContentDiv{
+    display: flex;
+}
+.YtImgIcon{
+    width: 30px;
+    height: 30px;
+    margin-top: 17px;
+}
+#YtFontDiv{
+    margin-top: 17px;
+    margin-left: 10px;
+    color: rgb(141, 30, 30);
+}

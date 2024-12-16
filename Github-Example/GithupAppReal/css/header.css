@@ -1,0 +1,20 @@
+#headerLogo{
+    width: 100px;
+    height: 55px;   
+}
+#HeaderLogoDiv{
+    border: 1px solid lightgrey;
+    background-color: white;
+}
+.HeaderTitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+#SearchDiv{
+    border: 1px solid lightgrey;
+    background-color: white;
+    border-radius: 6px;
+}
+#ButtonDiv{
+ margin-top: 5px;   
+}
